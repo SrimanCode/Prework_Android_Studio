@@ -2,7 +2,7 @@
 
 Submitted by: **Sriman Ujhanthachhen**
 
-**About Me** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**About Me** is an Android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **1** hours spent in total
 
@@ -12,14 +12,14 @@ The following **required** functionality is completed:
 
 * [X] Image and introductory message displayed on screen
 * [X] Button displayed on screen
-* [X] Toast with message appears when button is pressed 
+* [X] Toast with a message appears when the button is pressed 
 
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
 * [X] Adding background colors
 * [X] Changed the font of the text
-* [X] Chnaged the color of the text   
+* [X] Changed the color of the text   
 
 ## Video Walkthrough
 
